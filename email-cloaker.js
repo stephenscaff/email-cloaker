@@ -6,7 +6,7 @@
 var EmailCloaker = (function() {
 
   // Our Selector
-  var cloakedEmails = document.querySelectorAll('.js-email-cloak');
+  var cloakedEmails = document.querySelectorAll('.js-cloak');
 
   /**
    * ForEach Utility

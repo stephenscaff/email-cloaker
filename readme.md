@@ -6,9 +6,9 @@ A simple JavaScript solution for beating down them pesky email harveters.
 
 The following written out email addresses will all convert to actual email addresses:
 
-- ```<span class="js-cloaker">your (at) mom (dot) com</span>```
-- ```<span class="js-cloaker">your [at] mom [dot] com</span>```
-- ```<span class="js-cloaker">your (at) mom [dot] com</span>```
+- ```<span class="js-cloak">your (at) mom (dot) com</span>```
+- ```<span class="js-cloak">your [at] mom [dot] com</span>```
+- ```<span class="js-cloak">your (at) mom [dot] com</span>```
 
 ## Demo
 
